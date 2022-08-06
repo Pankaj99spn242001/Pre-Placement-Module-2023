@@ -8,7 +8,7 @@
 
 ## Coding Profiles
 - LeetCode: [PANKAJ_VERMA](https://leetcode.com/pankaj2001/)
-- HackerRank: [PANKAJ_VERMA](https://www.hackerrank.com/pnakaj2001)
+- HackerRank: [PANKAJ_VERMA](https://www.hackerrank.com/pnakaj20011)
 
 ## Placement Module
 1. [DS I](https://github.com/Pankaj99spn242001/Pre-Placement-Module-2023/tree/main/DS%20I)
